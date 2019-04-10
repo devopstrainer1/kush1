@@ -2,3 +2,4 @@ this is my second file
 vinay made some chnanges
 learning diff
 we are learning git
+we are learning git stash
